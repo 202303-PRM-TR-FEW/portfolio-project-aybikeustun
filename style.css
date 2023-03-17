@@ -1,0 +1,107 @@
+.first{
+    background-color: #FAFAFA;
+    width: 25em;
+    height: 60em;
+    margin-right: 2em;
+    font-family: century gothic;
+    box-shadow: 3px 3px 3px 3px gray;
+    padding: 1em 1em 1em 1em;
+}
+.second{
+    background-color: lightgray;
+    width: 50em;
+    height: 50em;
+    font-family: century gothic;
+   
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+body{background-color: lightgrey;}
+
+.second .up{
+    background-color: #FAFAFA;
+    width: 50em;
+    height: 30em;
+    margin-bottom: 2em;
+    font-family: century gothic;
+    box-shadow: 3px 3px 3px 3px gray;
+    padding: 1em 1em 1em 1em;
+    
+}
+.second .down{
+    background-color:#FAFAFA;
+    width: 50em;
+    height: 25em;
+    font-family: century gothic;
+    box-shadow: 3px 3px 3px 3px gray;
+    padding: 1em 1em 1em 1em;
+}
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.meter {
+    box-sizing: content-box;
+    height: 10px; /* Can be anything */
+    position: relative;
+    margin: 0 0 20px 0; /* Just for demo spacing */
+    background:teal;
+    border-radius: 25px;
+    padding: 10px;
+    box-shadow: inset 0 -1px 1px rgba(255, 255, 255, 0.3);
+  }
+  .meters {
+    box-sizing: content-box;
+    height: 10px; /* Can be anything */
+    position: relative;
+    margin: 0 0 20px 0; /* Just for demo spacing */
+    background:teal;
+    border-radius: 25px;
+    padding: 10px;
+    box-shadow: inset 0 -1px 1px rgba(255, 255, 255, 0.3);
+  }
+  .meterl {
+    box-sizing: content-box;
+    height: 10px; /* Can be anything */
+    position: relative;
+    margin: 0 0 20px 0; /* Just for demo spacing */
+    background:teal;
+    border-radius: 25px;
+    padding: 10px;
+    box-shadow: inset 0 -1px 1px rgba(255, 255, 255, 0.3);
+  }
+  .elanguage {
+    box-sizing: content-box;
+    height: 10px; /* Can be anything */
+    position: relative;
+    margin: 0 0 20px 0; /* Just for demo spacing */
+    background:teal;
+    border-radius: 25px;
+    padding: 10px;
+    box-shadow: inset 0 -1px 1px rgba(255, 255, 255, 0.3);
+  }
+  .ilanguage {
+    box-sizing: content-box;
+    height: 10px;
+    position: relative;
+    margin: 0 300px 20px 0; 
+    background:teal;
+    border-radius: 25px;
+    padding: 10px;
+  }
+
+footer{
+  background-color: teal;
+  font-family: century gothic;
+  text-align: center;
+  color: beige;
+
+}
+.logo{
+  display: flex;
+  justify-content: center;
+}
